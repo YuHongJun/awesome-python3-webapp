@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-# -*- coding:utf-8 -*-
-
-__author__ = 'Demi Yu'
+# -*- coding: utf-8 -*-
 
 '''
 Models for user, blog, comment.
 '''
+
+__author__ = 'Michael Liao'
 
 import time, uuid
 
